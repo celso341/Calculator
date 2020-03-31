@@ -5,7 +5,7 @@
 </h1> -->
 
 <h2 align="center">
-  ReactJS Calculator Web
+  ReactJS Calculator Web.
 </h2>
 
 <!-- <p align="center">OpenWeather is a project created by Lucas Montano initially as an One-Day-Challange, then he decided to create an Open Source project to help his followers and everyone getting started with Open Source world world building a basic but very strategic application!</p> -->
