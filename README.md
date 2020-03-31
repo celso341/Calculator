@@ -50,7 +50,7 @@
 - Clone this repo to your local machine using:
 
 ```
-https://github.com/celso341/Calculator.git
+~$ git clone https://github.com/celso341/Calculator.git
 ```
 
 ### Setup
@@ -64,5 +64,22 @@ https://github.com/celso341/Calculator.git
 - `cd ios && pod install && cd ..`
 
 - `react-native run-ios`
+
+---
+## 📌 Support
+
+Reach out to me at one of the following places!
+
+
+- Instagram at [@_cojunior](https://www.instagram.com/_cojunior/)
+- Linkedin at [Celso Olimeira](https://www.linkedin.com/in/celso-de-oliveira-j%C3%BAnior-8335827b/)
+
+---
+
+## 📝 License
+
+<img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
