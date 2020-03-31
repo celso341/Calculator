@@ -26,11 +26,11 @@
 
 <ul>
   <li><a href="#-getting-started">Getting Started</a></li>
-  <li><a href="#-features">Features</a></li>
+  <!-- <li><a href="#-features">Features</a></li>
   <li><a href="#-contributing">Contributing</a></li>
   <li><a href="#-support">Support</a></li>
   <li><a href="#-license">License</a></li>
-  <li><a href="#-other-platforms">Other Platforms</a></li>
+  <li><a href="#-other-platforms">Other Platforms</a></li> -->
 </ul>
 
 ---
@@ -50,7 +50,7 @@
 - Clone this repo to your local machine using:
 
 ```
-https://github.com/lucasmontano/openweathermap-reactnative
+https://github.com/celso341/Calculator.git
 ```
 
 ### Setup
