@@ -72,7 +72,7 @@ Reach out to me at one of the following places!
 
 
 - Instagram at [@_cojunior](https://www.instagram.com/_cojunior/)
-- Linkedin at [Celso Olimeira](https://www.linkedin.com/in/celso-de-oliveira-j%C3%BAnior-8335827b/)
+- Linkedin at [Celso Oliveira](https://www.linkedin.com/in/celso-de-oliveira-j%C3%BAnior-8335827b/)
 
 ---
 
